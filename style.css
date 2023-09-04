@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    background-color: #f67267;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+
+#textbox {
+    width: 100%;
+    border-color: #f67267;
+    font-size: 15px;
+}
+
+p{
+    text-align: center;
+    background-color: #f67267;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
